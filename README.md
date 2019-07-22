@@ -41,3 +41,8 @@ node .
 1.cheerio - Cheerio parses markup and provides an API for traversing/manipulating the resulting data structure. 
 2.body-parser - Node.js body parsing middleware.
 3.uses Expressjs as frame work
+```
+
+### Extening of scrapping
+```
+We can extend this web scrape for compare the content title of multiple urls and only list the urls having same kind of titles.
