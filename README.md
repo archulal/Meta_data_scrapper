@@ -5,7 +5,8 @@
 * Clone this repo:
 
 ```
-git clone https://github.com/kevinchisholm/node-cheerio-web-page-scraper.git
+git clone https://github.com/archulal/Meta_data_scrapper.git
+
 ```
 
 * Run this command:
@@ -19,4 +20,4 @@ npm install
 ### 1) Execute this command in your terminal:
 
 ```
-node app.js
+node .
