@@ -23,3 +23,13 @@ npm install
 
 ```
 node .
+### 2) Unit testing using postman:
+```
+1.Set http method as post
+2.Url as http://localhost:3000/web_scrape
+3.Set header "Content-Type: application/x-www-form-urlencoded"
+4.In bodu gave the key value parameter eg: key=url value="https://diagnal.com/"
+5.Run using Send in postman.
+
+![Alt text](images/api_postan_dinagal?raw=true "Title")
+
