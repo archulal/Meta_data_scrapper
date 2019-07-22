@@ -31,5 +31,5 @@ node .
 4.In bodu gave the key value parameter eg: key=url value="https://diagnal.com/"
 5.Run using Send in postman.
 
-![Alt text](images/api_postan_dinagal?raw=true "Title")
+![Alt text](images/diagnal_postmanscrapper.png?raw=true "Title")
 
