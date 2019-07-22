@@ -12,6 +12,8 @@ git clone https://github.com/archulal/Meta_data_scrapper.git
 * Run this command:
 
 ```
+cd Meta_data_scrapper
+
 npm install
 ```
 
