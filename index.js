@@ -13,8 +13,6 @@ app.use(bodyParser.json());
 //support parsing of application/x-www-form-urlencoded post data
 app.use(bodyParser.urlencoded({extended: true}));
 
-//tell express that we want to use the www folder for our static assets
-app.use(express.static(path.join(__dirname, 'www')));
 
 app.post('/web_scrape', function(req, res){
     res.setHeader('Content-Type', 'application/json');
